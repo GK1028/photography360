@@ -1,1 +1,1 @@
-live serval : #Photography360.rf.gd
+live serval : [http://photography360.rf.gd](http://photography360.rf.gd)
